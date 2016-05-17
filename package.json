@@ -1,0 +1,30 @@
+{
+  "name": "its.js",
+  "version": "1.0.0",
+  "description": "Javascript Library to check objects type and do another things",
+  "main": "its.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/its.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Amechghal/its.js.git"
+  },
+  "keywords": [
+    "check",
+    "types",
+    "control"
+  ],
+  "author": "Ali Amechghal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-Amechghal/its.js/issues"
+  },
+  "homepage": "https://github.com/Ali-Amechghal/its.js#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
