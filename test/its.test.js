@@ -5,7 +5,7 @@
  * 
  */
 var expect = require('chai').expect;
-var its =  require('../its.js');
+var its =  require('../si.js');
 
 describe('type checks', function(){
 	describe('its.arguments' , function (){

@@ -1,4 +1,4 @@
-# its.js
+# si.js
 
 A node js and browser library to check types 
 
